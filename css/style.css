@@ -1,0 +1,36 @@
+h2
+{
+    color:brown;
+    font-family: Gill Sans;
+}
+p
+{
+    color:rgb(44, 199, 127);
+    font-family: sans-serif;
+    font-size: 18px;
+    font-weight: 100;
+}
+.btn
+{
+    background-color:aqua;
+    padding:10px;
+    color: white;
+
+}
+.btn:hover
+{
+    background-color:pink;
+    
+}
+.btn1
+
+{
+    background-color:aqua ;
+
+}
+.btn1:hover
+
+{
+    background-color:pink ;
+    
+}
